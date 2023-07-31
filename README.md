@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zahara Miriam, a full-stack engineer with a focus on frontend. 
+I am Zahara Miriam, a full-stack engineer. 
 Feel free to reach out to collaborate or ask me something. 
 
 ### Currently working on ... 
