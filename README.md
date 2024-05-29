@@ -7,7 +7,7 @@ Feel free to reach out to collaborate or ask me something.
 Building AI chatbots utilising organizational data to provide recommendations and QA. 
 
 ### Currently learning ...
-Recently I am upskilling and using generative AI tools to build and train LLMs.
+Recently I am using generative AI tools to build and train LLMs.
 
 ### Ask me about ...
 
